@@ -1,0 +1,6 @@
+{"level":"INFO","time":"2025-04-12T21:56:09.784+0700","caller":"initialize/run.go:13","msg":"Logger init success","oke":"success"}
+{"level":"INFO","time":"2025-04-12T21:56:09.787+0700","caller":"initialize/mysql.go:28","msg":"Initializing MySQL Success"}
+{"level":"INFO","time":"2025-04-12T22:14:07.305+0700","caller":"initialize/run.go:13","msg":"Logger init success","oke":"success"}
+{"level":"INFO","time":"2025-04-12T22:14:07.308+0700","caller":"initialize/mysql.go:28","msg":"Initializing MySQL Success"}
+{"level":"INFO","time":"2025-04-12T22:14:59.810+0700","caller":"initialize/run.go:13","msg":"Logger init success","oke":"success"}
+{"level":"INFO","time":"2025-04-12T22:14:59.812+0700","caller":"initialize/mysql.go:28","msg":"Initializing MySQL Success"}

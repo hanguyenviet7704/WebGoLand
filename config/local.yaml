@@ -1,0 +1,18 @@
+server:
+  port: 2004
+mysql:
+  host: 127.0.0.1
+  port: 3306
+  username: root
+  password: 12341234
+  dbname: hagoland
+  maxIdleConns: 10  # Số lượng kết nối tối đa được phép trong pool connect 
+  maxOpenConns: 100 # Số lượng kết nối tối đa được mở đồng thời default: 0
+  connMaxLifetime: 3600 # Thời gian tối đa một kết nối được mở default: 0
+logger:
+  log_level: debug
+  file_log_name: "./storages/logs/dev.001.log"
+  max_size: 500
+  max_backups: 3
+  max_age: 28
+  compress: true
